@@ -1,0 +1,50 @@
+.div2Tag
+{
+	padding: 25px;
+}
+
+.ipTag
+{
+	width: 40%;
+	padding: 12px 20px;
+	margin-right: 10px;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	display: inline-block;
+}
+
+.labels
+{
+	margin-top: 10px;
+	display: inline-block;
+}
+
+.child2Inline
+{
+	margin-left: 445px;
+}
+
+.emailDiv
+{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.inputEmail
+{
+	margin-top: 12px;
+}
+
+.emailIPTAg
+{
+	width: 80%;
+	padding: 12px 20px;
+	/* margin-right: 10px; */
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	display: inline-block;
+}
